@@ -2,6 +2,15 @@
   padding: 0 2rem;
 }
 
+.btn-outline-primary:hover {
+  background-color: #f2e7fd;
+}
+
+p.small {
+  font-size: 0.9em;
+  margin-top: 1.5em;
+}
+
 .main {
   min-height: 100vh;
   padding: 4rem 0;
