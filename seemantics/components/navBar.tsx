@@ -47,7 +47,7 @@ export default function NavBar() {
                 aria-current="page"
                 href="/posts/acgtk"
               >
-                Les ACG
+                FraCas
               </Link>
             </li>
             <li className="nav-item">
